@@ -1,0 +1,16 @@
+.product{
+	
+	display: grid;
+	grid-template-columns: 50% 50%;
+	align-items: center;
+	
+	.left{
+		.product-image{
+			width: 100%;
+		}
+	}
+	.right{
+		
+	}
+	
+}
